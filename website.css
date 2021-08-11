@@ -1,0 +1,154 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.dabba{
+    background-color: #333333;
+    background-image:url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    height: 451px;
+    width: 1519px;
+    margin-top: 0px;
+    
+    
+   
+}
+.xy{
+    margin-top: 0px;
+    color: #FFFFFF;
+    position: relative;
+    top: 114px; left: 481px;
+}
+.y{
+    
+    margin-top: 172px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+}
+.dabba3{
+   background-color:#EAEAEA;
+    color:#333333;
+}
+.read{
+    background-color: #2F2F2D;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+.read:hover{
+    background-color: #EAEAEA;
+    color:#2F2F2D;
+}
+.dabba4{
+   display:flex;
+   justify-content:center;
+   
+   margin-left: 250px;
+   margin-right:250px;
+   padding-bottom: 30px;
+}
+.xx{
+    margin-top: 0px;
+    position: relative;
+    top: 20px;
+ 
+}
+.x{
+    padding: 20px;
+}
+.dabba5{
+    background-color: #333333;
+    display: flex;
+    padding: 20px;
+   
+   
+}
+.xyz{
+    background-color: #EAEAEA;
+    
+    
+  margin: 10px;
+}
+.l{
+    margin-left: 330px;
+}
+.r{
+    margin-right: 330px;
+}
+.i1{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 275px;
+}
+.m{
+   text-align: center;
+   padding: 20px;
+}
+html,body{
+    overflow-x: hidden;
+}
+.dabba6{
+    background-color:#FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.dabba7{
+    display: flex;
+}
+.op{
+    background-color: #2690D4;
+    width: 1380px;
+}
+.np{
+    background-color:#333333;
+   
+}
+.mm{
+    position: relative;
+    top: 70;
+}
+.cl{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ct{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    
+.dabba9{
+    background-color:#000000;
+    display: flex;
+    color:#FFFFFF;
+}
+.dd{
+    color:blue;
+}
+.nn{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 50%;
+    
+    
+}
+.s{
+  padding-left: 400px;
+  padding-right:400px;
+  text-align: center;
+}
